@@ -4,9 +4,9 @@ A Diablo 2 Resurrected mod which boosts attack rating of melee attacks for both 
 ## How to install
 Download mod files.
 
-Go in your D2Resurrected installation directory and create (if don't exist) directories "mods\arboost\arboost.mpq\data\global\excel" (each directory at the right of \ goes into the previous one).
+Go in your D2Resurrected installation directory and create (if it doesn't exist) directory "mods".
 
-Copy file "modinfo.json" into "arboost.mpq" dir, then copy .txt files into "excel" dir.
+Copy "arboost" directory previously downloaded (with all its content) into "mods" directory.
 
 Open Diablo 2 Resurrected launcher, go to game settings, check "Additional command line arguments", at the end of your existing arguments (if any) add a white space and write "-mod arboost -txt" without quotes (if there are no arguments white space at the beginning is not needed).
 
