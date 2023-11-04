@@ -2,7 +2,7 @@
 A Diablo 2 Resurrected mod which boosts attack rating of melee attacks for both your character and mercenaries.
 
 ## How to install
-Download mod files.
+Download mod files by clicking on "Code -> Download Zip" at top right.
 
 Go in your D2Resurrected installation directory and create (if it doesn't exist) directory "mods".
 
@@ -18,4 +18,4 @@ Start the game, enjoy!
 
 This mod is compatible with your save files and is offline only.
 
-It was created thanks to the guides of user HighTechLowIQ: https://github.com/HighTechLowIQ
+It was created thanks to user HighTechLowIQ's guides: https://github.com/HighTechLowIQ
