@@ -1,5 +1,5 @@
 # D2Resurrected-AttackRatingBoost
-A Diablo 2 Resurrected mod which boosts attack rating of melee attacks for both your characters and mercenaries; everything else has not been changed.
+A Diablo 2 Resurrected mod which boosts attack rating of melee attacks for both your characters and mercenaries; everything else is the same as original.
 
 ## How to install
 Download mod files by clicking on "<> Code" then "Download ZIP" at top right.
